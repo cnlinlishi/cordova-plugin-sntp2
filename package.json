@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-sntp2",
+  "version": "2.0.2",
+  "description": "Cordova SNTP Plugin",
+  "cordova": {
+    "id": "cordova-plugin-sntp2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/arham.anwar/cordova-plugin-sntp2"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "sntp"
+  ],
+  "author": "Arham Anwar",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova-android": ">7.0.0",
+        "cordova-ios": ">4.5.0"
+      }
+    }
+  }
+}
